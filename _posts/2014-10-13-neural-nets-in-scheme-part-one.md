@@ -14,13 +14,15 @@ Keeping with the theme of "making it from scratch", here are the the necessary m
 
 ```
 (define (matrix-multiply x y)
+
 	(map (lambda (row) (apply map 
-				 (lambda column (apply + (map * row column))) y)) 
-			 x))
+
+				 (lambda column (apply + (map * row column))) y)) x))
 
 (define (matrix-add x y) (map (lambda (x y) (map + x y)) x y))
 
 (define (transpose m) 
+
 	(apply map list m))
 
 (define (magnitude v) (sqrt (apply + (map square v))))
@@ -38,6 +40,7 @@ The basic unit of decision making is the "neuron". Given any number of inputs it
 
 ```
 (define (neuron activation-function input weight bias)
+
 	(activation-function (+ (* input weight) bias)))
 ```
 
@@ -45,6 +48,7 @@ The simplest neuron, the perceptron, uses the step function as its activation fu
 
 ```
 (define (step-function z)
+
 	(if (< 0 z) 1 0))
 ```
 
@@ -54,6 +58,7 @@ Thus a perceptron can be implemented as
 
 ```
 (lambda (input weight bias)
+
 	(step-function (+ (* input weight) bias)))
 ```
 
@@ -65,8 +70,11 @@ To do this, we need to first adapt the genereralized neuron function to accept m
 
 ```
 (define neuron (activation-function inputs weights bias)
+
 	(activation-function (+ 
+
 		(caar (matrix-multiply weights inputs))
+
 		bias)))
 ```
 
@@ -104,12 +112,19 @@ For the 1-bit binary adder, the weights and biases are encoded as such:
 
 ```
 (define weights '(
+
 	((1 0) (-2 -2) (0 1)) 
+
 	((-2 -2 0) (0 -2 -2) (0 1 0)) 
+
 	((-2 -2 0) (0 0 -4))))
+
 (define biases '(
+
 	((0) (3) (0)) 
+
 	((3) (3) (0)) 
+
 	((3) (3))))
 ```
 
@@ -119,9 +134,13 @@ From a high level, we need to multiply the input matrix `A` by weight matrix `W[
 
 ```
 feed-forward (A, W, B) {
+
 	if (w is null) return a
+
 	A' = map(activation-function, car(W) * transpose(A) + car(B))
+
 	feed-forward(A', cdr(W), cdr(B))
+
 }
 ```
 
@@ -129,12 +148,19 @@ Because the list of weight and bias matricies are the same length, they'll run o
 
 ```
 (define (feed-forward a-f a w b)
+
 	(if (null? w) 
+
 		a
+
 		(feed-forward 
+
 			a-f 
+
 			(map a-f (map car (matrix-add (matrix-multiply (car w) (transpose (list a))) (car b)))) 
+
 			(cdr w) 
+
 			(cdr b))))
 ```
 
@@ -146,40 +172,64 @@ Now that we have a `feed-forward` procedure, activation function, and some weigh
 
 ```
 ;matrix & vector functions
+
 (define (matrix-multiply m n)
+
 	(map (lambda (row) (apply map 
+
 				 (lambda column (apply + (map * row column))) n)) 
 			 m))
 
 (define (matrix-add x y) (map (lambda (x y) (map + x y)) x y))
 
 (define (transpose m) 
+
 	(apply map list m))
  
 ;activation functions
+
 (define (step-function z)
+
 	(if (< 0 z) 1 0))
 
 ;get result of neural net computation
+
 (define (feed-forward a-f a w b)
+
 	(if (null? w) 
+
 		a
+
 		(feed-forward 
+
 			a-f 
+
 			(map a-f (map car (matrix-add (matrix-multiply (car w) (transpose (list a))) (car b)))) 
+
 			(cdr w) 
+
 			(cdr b))))
 
 ;example: add two bits X and Y
+
 ;output is list (SUM CARRY-BIT)
+
 (define (add-two-bits x y)
+
 	(define weights '(
+
 		((1 0) (-2 -2) (0 1)) 
+
 		((-2 -2 0) (0 -2 -2) (0 1 0)) 
+
 		((-2 -2 0) (0 0 -4))))
+
 	(define biases '(
+
 		((0) (3) (0)) 
+
 		((3) (3) (0)) 
+		
 		((3) (3))))
 
 	(feed-forward step-function (list x y) weights biases))
