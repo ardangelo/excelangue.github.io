@@ -4,9 +4,7 @@ title: An Essay on Data Security
 categories: [essays]
 ---
 
-### Foreword
-
-This research essay was written as the final paper for my junior year English class, and as such the terms and phrasing assumes the reader has little-to-some technological knowledge. If for some reason somebody wants to read it, well, here it is.
+I wrote this research essay as the final paper for a high school English class, and as such the terms and phrasing assumes the reader has little-to-some technological knowledge. 
 
 # Security Implications of Corporate Ownership of Personal Data
 

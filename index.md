@@ -6,9 +6,9 @@ title: Main Page
 
 ##About
 
-Andrew D'Angelo: student and programmer. Much of my time is spent on various computers including but not limited to ThinkPad and Surface Pro. 
+Andrew D'Angelo: student at the University of Washington. When I'm not programming I'm usually hanging out at Thorntons or playing Smash Bros.
 
-Programmer in C (GBA & PC), C# (WP8 & Metro) and Python. I can be found on [irc.rizon.net](http://rizon.net) under the nick `excel`.
+Programmer in C (GBA & PC), C# (WP8 & Metro), Python, and Scheme. I can be found on [irc.rizon.net](http://rizon.net) under the nick `excel`.
 
 #### PGP Data
 
@@ -19,6 +19,10 @@ Programmer in C (GBA & PC), C# (WP8 & Metro) and Python. I can be found on [irc.
 Fingerprint: `9763 0523 B54B 17E4 0ECE  42C6 F2D9 8C89 394E 5B3A`
 
 Public key: [pubkey.txt]({{ site.url }}/assets/text/pubkey.txt)
+
+#### 3DS Friend Code
+
+`5086 2544 8580`
 
 ## Posts
 
@@ -52,15 +56,15 @@ Thorntons++ is my first Windows Phone app, an unofficial OpenStore client that a
 
 [![Windows Phone Store 8 Banner]({{ site.url}}/assets/images/154x40_WP_Store_gry.png)](http://www.windowsphone.com/en-us/store/app/thorntons/3414a6e0-2f63-4697-88fe-ddd266ccc971)
 
+---
+
 ## Projects
 
 ### OmeglePCL
 
 ![OmeglePCL Icon]({{ site.url }}/assets/images/opcl-icon.png) 
 
-Omegle client in C# targeting the Microsoft Portable Class Library (WP8, Metro, and .NET 4.5). Adapted from cryzed's [Python Omegle API](https://github.com/cryzed/Python-Omegle-API). Release candidate version is in use in my new app [Omeddle](http://www.windowsphone.com/en-us/store/app/omeddle/e99fbcac-c908-43e0-87c0-2c69e394a466).
-
-I will be updating the source code to release version when I publish Omeddle verison 2.0 as a Universal app.
+Omegle client Portable Class Library in C#. Current version used in [Omeddle](http://www.windowsphone.com/en-us/store/app/omeddle/e99fbcac-c908-43e0-87c0-2c69e394a466). Due to time constraints, Omeddle is shelved. 
 
 [github repository](https://github.com/excelangue/OmeglePCL)
 
