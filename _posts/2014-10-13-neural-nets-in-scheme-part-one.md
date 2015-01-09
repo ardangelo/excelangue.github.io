@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neural Nets in Scheme
+title: Neural Nets in Scheme Part 1
 categories: [code]
 ---
 
@@ -14,8 +14,7 @@ Keeping with the theme of "making it from scratch", here are the the necessary m
 
 	(define (matrix-multiply x y)
 		(map (lambda (row) (apply map 
-					 (lambda column (apply + (map * row column))) y)) 
-				 x))
+			(lambda column (apply + (map * row column))) y)) x))
 
 	(define (matrix-add x y) (map (lambda (x y) (map + x y)) x y))
 
@@ -101,7 +100,7 @@ For the 1-bit binary adder, the weights and biases are encoded as such:
 
 ### Computing the result of the neural network
 
-From a high level, we need to multiply the input matrix `A` by weight matrix `W[0]` and add bias matrix `B[0]`, yeilding `A'`. Repeat again with `A'` as the input for the next layer of neurons (weight matrix `W[1]` and bias matrix `B[1]`), until the network is done "feeding the results forward".
+From a high level, we need to multiply the input matrix `A` by weight matrix `W[0]` and add bias matrix `B[0]`, yielding `A'`. Repeat again with `A'` as the input for the next layer of neurons (weight matrix `W[1]` and bias matrix `B[1]`), until the network is done "feeding the results forward".
 
 	feed-forward (A, W, B) {
 		if (w is null) return a
@@ -112,12 +111,15 @@ From a high level, we need to multiply the input matrix `A` by weight matrix `W[
 Because the list of weight and bias matricies are the same length, they'll run out at the same time. translating into Scheme we get:
 
 	(define (feed-forward a-f a w b)
-		(if (null? w) 
-			a
+		(if (null? w) a
 			(feed-forward 
 				a-f 
-				(map a-f (map car (matrix-add (matrix-multiply (car w) (transpose (list a))) (car b)))) 
-				(cdr w) 
+				(map a-f (map car 
+					(matrix-add 
+						(matrix-multiply 
+							(car w) (transpose (list a))) 
+							(car b)))) 
+						(cdr w) 
 				(cdr b))))
 
 We need to `(map car ... )` and `(transpose (list a))` to provide a numerical input to the activation function and to get everything in the proper form for matrix multiplication respectively.
@@ -129,8 +131,7 @@ Now that we have a `feed-forward` procedure, activation function, and some weigh
 	;matrix & vector functions
 	(define (matrix-multiply m n)
 		(map (lambda (row) (apply map 
-					 (lambda column (apply + (map * row column))) n)) 
-				 m))
+			(lambda column (apply + (map * row column))) n)) m))
 
 	(define (matrix-add x y) (map (lambda (x y) (map + x y)) x y))
 
@@ -143,12 +144,15 @@ Now that we have a `feed-forward` procedure, activation function, and some weigh
 
 	;get result of neural net computation
 	(define (feed-forward a-f a w b)
-		(if (null? w) 
-			a
+		(if (null? w) a
 			(feed-forward 
 				a-f 
-				(map a-f (map car (matrix-add (matrix-multiply (car w) (transpose (list a))) (car b)))) 
-				(cdr w) 
+				(map a-f (map car 
+					(matrix-add 
+						(matrix-multiply 
+							(car w) (transpose (list a))) 
+							(car b)))) 
+						(cdr w) 
 				(cdr b))))
 
 	;example: add two bits X and Y
@@ -164,6 +168,8 @@ Now that we have a `feed-forward` procedure, activation function, and some weigh
 			((3) (3))))
 
 		(feed-forward step-function (list x y) weights biases))
+
+Testing it out:
 
 	1 ]=> (add-two-bits 0 1)
 
