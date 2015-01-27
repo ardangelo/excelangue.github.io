@@ -36,11 +36,15 @@ Public key: [pubkey.txt]({{ site.url }}/assets/text/pubkey.txt)
 
 ## Apps
 
+I have hidden both of these apps from the Windows Phone Store, as they no longer work with the websites they were designed to access, and I currently don't have enough time to dedicate towards fixing them. Both can still be viewed on the Store by clicking the respective Store banners.
+
 ### Omeddle
 
 ![Omeddle Icon]({{ site.url }}/assets/images/om-icon.png) 
 
-I finished and published this app during Microsoft's //publish/ 2014 event in Chicago, where I won 3rd place in the overall local app competition.
+I finished and published this app during Microsoft's //publish/ 2014 event in Chicago, where I won 3rd place in the overall local app competition. At its peak it had around 2,000 downloads per month, and hoevered around 500 downloads a month before being pulled for a total of 8,000 downloads.
+
+#### Description
 
 Don't just chat with Omegle users, meddle with them! Omeddle is not only a fully-featured Omegle client (Classic chat, ask and answer questions), but also puts a fun twist on the classic Omegle formula: not only can you chat, you can also control! Sit between two unsuspecting Omegle users and control the conversation by masquerading as the Stranger and modify messages with simple find and replace or regular expressions. 
 
@@ -52,7 +56,9 @@ Also features image sharing and management (upload pictures to share during a ch
 
 ![Thorntons++ Icon]({{ site.url }}/assets/images/tpp-icon.png) 
 
-**Update Sep. 2 2014**: Thorntons++ has been pulled from the Store due to Thorntons changing loyalty and coupon system. This will require a total rewrite of Thorntons++.
+Thorntons++ has been pulled from the Store due to Thorntons changing loyalty and coupon system. This will require a total rewrite of Thorntons++.
+
+#### Description
 
 Thorntons++ is my first Windows Phone app, an unofficial OpenStore client that allows you to get the latest Thorntons coupons and deals on Windows Phone 8 and to save your FREEquency Rewards card. While the official Android and iOS apps collect personal data such as location, phone number, and phone model, Thorntons++ generates this information randomly. Coupons are not erased after use and can be used offline.
 
@@ -66,7 +72,7 @@ Thorntons++ is my first Windows Phone app, an unofficial OpenStore client that a
 
 ![OmeglePCL Icon]({{ site.url }}/assets/images/opcl-icon.png) 
 
-Omegle client Portable Class Library in C#. Current version used in [Omeddle](http://www.windowsphone.com/en-us/store/app/omeddle/e99fbcac-c908-43e0-87c0-2c69e394a466). Due to time constraints, Omeddle is shelved. 
+Omegle client Portable Class Library in C#. Current version used in [Omeddle](http://www.windowsphone.com/en-us/store/app/omeddle/e99fbcac-c908-43e0-87c0-2c69e394a466).
 
 [github repository](https://github.com/excelangue/OmeglePCL)
 
