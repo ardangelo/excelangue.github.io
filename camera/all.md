@@ -78,7 +78,7 @@ title: Photo Dojo
 <p>
 	<table border="0" cellpadding="4"><tr>
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/emerylucas.png" /><br />
-		Emery, Lucas, me</td>
+		Emry, Lucas, me</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/mikebo.png" /><br />
 		Will-Bo, Michael</td>
