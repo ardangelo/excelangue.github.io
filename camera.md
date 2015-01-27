@@ -31,33 +31,33 @@ title: Photo Dojo
 <h3>Years</h3>
 <p>
 	<table border="0" cellpadding="4"><tr>
-		<a href="camera/2009-2011.html">
-			<td width="140"><img src="{{ site.url }}/assets/images/gameboy/textyjamie.png" /><br />
-			2009 - 2011</td>
-		</a>
+		<td width="140"><a href="camera/2009-2011.html">
+			<img src="{{ site.url }}/assets/images/gameboy/textyjamie.png" /><br />
+			2009 - 2011</a>
+		</td>
 
-		<a href="camera/2012.html">
-			<td width="140"><img src="{{ site.url }}/assets/images/gameboy/gabeandrew.png" /><br />
-			2012</td>
-		</a>
-
-		<a href="camera/2013.html">
-			<td width="140"><img src="{{ site.url }}/assets/images/gameboy/airport.png" /><br />
-			2013</td>
-		</a>
-
-		<a href="camera/2014.html">
-			<td width="140"><img src="{{ site.url }}/assets/images/gameboy/parking.bmp" /><br />
-			2014</td>
-		</a>
+		<td width="140"><a href="camera/2012.html">
+			<img src="{{ site.url }}/assets/images/gameboy/gabeandrew.png" /><br />
+			2012</a>
+		</td>
+		
+		<td width="140"><a href="camera/2013.html">
+			<img src="{{ site.url }}/assets/images/gameboy/airport.png" /><br />
+			2013</a>
+		</td>
+		
+		<td width="140"><a href="camera/2014.html">
+			<img src="{{ site.url }}/assets/images/gameboy/parking.bmp" /><br />
+			2014</a>
+		</td>
 	</tr></table>
 </p>
 
 <p>
 	<table border="0" cellpadding="4"><tr>
-		<a href="camera/2015.html">
-			<td width="140"><img src="{{ site.url }}/assets/images/gameboy/balcony.bmp" /><br />
-			2015</td>
-		</a>
+		<td width="140"><a href="camera/2015.html">
+			<img src="{{ site.url }}/assets/images/gameboy/balcony.bmp" /><br />
+			2015</a>
+		</td>		
 	</tr></table>
 </p>
