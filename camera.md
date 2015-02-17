@@ -10,24 +10,6 @@ title: Photo Dojo
 
 <h2><a href="camera/all.html">Unpaginated</a></h2>
 
-<h3>From around the web</h3>
-<p>
-	<table border="0" cellpadding="4"><tr>
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/bangkok10.gif" /><br />
-		BTS Skytrain in Bangkok [<a href="http://timokl.de">timokl.de</a>]</td>
-
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/hiroshima_tube.png" /><br />
-		Subway station in Hiroshima [<a href="http://flickr.com/photos/kusadenshi/sets/72157600923103239/">kusadenshi</a>]</td>
-
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/dragan.gif" /><br />
-		Dragan Epenschied [<a href="http://drx.a-blast.org/~drx/projects/gameboy/index.en.html">drx.a-blast.org</a>]</td>
-
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/chris_overhead.gif" /><br />
-		From Nullsleep's Game Boy journal [<a href="http://www.nullsleep.com/gb_gallery/circuitburglars_practice_11-23-01/">nullsleep.com</a>]</td>
-
-	</tr></table>
-</p>
-
 <h3>Years</h3>
 <p>
 	<table border="0" cellpadding="4"><tr>
@@ -42,7 +24,7 @@ title: Photo Dojo
 		</td>
 		
 		<td width="140" style="border: 1px solid blue;"><a href="camera/2013.html">
-			<img src="{{ site.url }}/assets/images/gameboy/airport.png" /><br />
+			<img src="{{ site.url }}/assets/images/gameboy/teresamecharlie.bmp" /><br />
 			2013</a>
 		</td>
 		
@@ -59,5 +41,23 @@ title: Photo Dojo
 			<img src="{{ site.url }}/assets/images/gameboy/balcony.bmp" /><br />
 			2015</a>
 		</td>		
+	</tr></table>
+</p>
+
+<h3>From around the web</h3>
+<p>
+	<table border="0" cellpadding="4"><tr>
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/bangkok10.gif" /><br />
+		BTS Skytrain in Bangkok [<a href="http://timokl.de">timokl.de</a>]</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/hiroshima_tube.png" /><br />
+		Subway station in Hiroshima [<a href="http://flickr.com/photos/kusadenshi/sets/72157600923103239/">kusadenshi</a>]</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/dragan.gif" /><br />
+		Dragan Epenschied [<a href="http://drx.a-blast.org/~drx/projects/gameboy/index.en.html">drx.a-blast.org</a>]</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/chris_overhead.gif" /><br />
+		From Nullsleep's Game Boy journal [<a href="http://www.nullsleep.com/gb_gallery/circuitburglars_practice_11-23-01/">nullsleep.com</a>]</td>
+
 	</tr></table>
 </p>

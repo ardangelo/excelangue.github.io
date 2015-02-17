@@ -34,6 +34,40 @@ Public key: [pubkey.txt]({{ site.url }}/assets/text/pubkey.txt)
 
 ---
 
+## Projects
+
+### Neural.NET
+
+![Neural.NET Icon]({{ site.url }}/assets/images/neuralnet-icon.png)
+
+Machine learning Portable Class Library in F#. Currently in development alongside my foray into machine learning. Uses Math.NET for linear algebra functions.
+
+[github repository](https://github.com/excelangue/Neural.NET)
+
+### OmeglePCL
+
+Omegle client Portable Class Library in C#. Current version used in [Omeddle](http://www.windowsphone.com/en-us/store/app/omeddle/e99fbcac-c908-43e0-87c0-2c69e394a466).
+
+[github repository](https://github.com/excelangue/OmeglePCL)
+
+### Canabalt Advance
+
+![Canabalt ADV Icon]({{ site.url }}/assets/images/cadv-icon.png) 
+
+A recreation of Adam Atomic's hit flash game for the Game Boy Advance. Graphics resources are taken from the open-source iOS port of the game. Uses [Krawall Sound System](https://github.com/sebknzl/krawall). KSS went open-source in 2013, many thanks to Seb! Music to be composed by [Emry Day](http://gplus.to/emry).
+
+[github repository](https://github.com/excelangue/canabaltadv)
+
+### gbcdump
+
+![gbcdump Icon]({{ site.url}}/assets/images/gbcd-icon.png) 
+
+Input Game Boy camera battery saves and output bitmaps. Requires `libbmp`
+
+[github repository](https://github.com/excelangue/gbcdump)
+
+---
+
 ## Apps
 
 I have hidden both of these apps from the Windows Phone Store, as they no longer work with the websites they were designed to access, and I currently don't have enough time to dedicate towards fixing them. Both can still be viewed on the Store by clicking the respective Store banners.
@@ -63,31 +97,3 @@ Thorntons++ has been pulled from the Store due to Thorntons changing loyalty and
 Thorntons++ is my first Windows Phone app, an unofficial OpenStore client that allows you to get the latest Thorntons coupons and deals on Windows Phone 8 and to save your FREEquency Rewards card. While the official Android and iOS apps collect personal data such as location, phone number, and phone model, Thorntons++ generates this information randomly. Coupons are not erased after use and can be used offline.
 
 [![Windows Phone Store 8 Banner]({{ site.url}}/assets/images/154x40_WP_Store_gry.png)](http://www.windowsphone.com/en-us/store/app/thorntons/3414a6e0-2f63-4697-88fe-ddd266ccc971)
-
----
-
-## Projects
-
-### OmeglePCL
-
-![OmeglePCL Icon]({{ site.url }}/assets/images/opcl-icon.png) 
-
-Omegle client Portable Class Library in C#. Current version used in [Omeddle](http://www.windowsphone.com/en-us/store/app/omeddle/e99fbcac-c908-43e0-87c0-2c69e394a466).
-
-[github repository](https://github.com/excelangue/OmeglePCL)
-
-### Canabalt Advance
-
-![Canabalt ADV Icon]({{ site.url }}/assets/images/cadv-icon.png) 
-
-A recreation of Adam Atomic's hit flash game for the Game Boy Advance. Graphics resources are taken from the open-source iOS port of the game. Uses [Krawall Sound System](https://github.com/sebknzl/krawall). KSS went open-source in 2013, many thanks to Seb! Music to be composed by [Emry Day](http://gplus.to/emry).
-
-[github repository](https://github.com/excelangue/canabaltadv)
-
-### gbcdump
-
-![gbcdump Icon]({{ site.url}}/assets/images/gbcd-icon.png) 
-
-Input Game Boy camera battery saves and output bitmaps. Requires `libbmp`
-
-[github repository](https://github.com/excelangue/gbcdump)

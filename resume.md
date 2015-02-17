@@ -16,6 +16,10 @@ Summary
 
 Education
 ---------
+
+*	**Student, University of Washington** 2014 - Present
+
+	-	Currently a freshman intending to study Computer Science
 	
 *	**Student, New Trier High School** 2010 - 2014
 
@@ -23,48 +27,32 @@ Education
 	-	Presidential Scholar semifinalist
 	-	Member of the German National Honor Society
 
-*	**Student, University of Washington** 2014 - 2018
+Programming Skills
+------------------
 
-	-	Currently a freshman intending to study Computer Science
+*	C for PC & Game Boy Advance, Python, Java, C# and F# for the .NET framework, LISP and Scheme
 
-Computer Skills
+Software Skills
 ---------------
-	
-*	**Hardware**
-	
-	-	Desktops, laptops, and small-scale networking
 
-*	**Software**
-
-	-	Windows XP through 8 and Windows Server
-	-	OS X Tiger through Mavericks
-	-	Linux system administration, primarily Arch and Debian
-
-*	**Programming languages**
-
-	-	C for PC & Game Boy Advance
-	-	Python
-	-	Java
-	-	C# for Windows 8 & Windows Phone 8
-	-	LISP and Scheme
+*	Windows, Windows Server 2012, OS X, Linux system administration, primarily Arch and Debian
 
 Work and Volunteer Experience
 -----------------------------
-	
-*	**Computer System Install, Family Promise** 2012
 
-	-	Hardware installation, software and network setup
+*	**Technical Consultant, Panorama Innovation** June 2014 – Present
+
+	-	Research, software design & implementation for retail intelligence systems
+
+*	**Event Technician, Unite Here Health** July 2014 – August 2014
+
+	-	System set-up and maintenance for health insurance events
+
+*	**Published two apps to the Windows Phone store** May 2014
+
+	-	*Thorntons++*: a customer loyalty and coupon app for a gas station chain
+	-	*Omeddle*: an Omegle chat client with the additional ability to intercept and modify messages sent by other users
 
 *	**Hardware and software preparation, First Presbyterian Church of Wilmette** 2013
 
 	-	Windows 8, Office, and Ubuntu Linux setup on machines destined for Church Ministry in Malawi
-
-*	**Self-published two apps to the Windows Phone store** 2014
-	
-	-	Thorntons++, a customer loyalty and coupon app for a gas station chain
-	-	Omeddle, an Omegle chat client with the additional ability to intercept and modify messages sent by other users
-
-*	**Consultant, Panorama Innovation** 2014 - Present
-
-	-	Research, software design & implementation for retail intelligence systems
-
