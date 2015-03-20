@@ -6,11 +6,11 @@ title: Main Page
 
 ##About
 
-Andrew D'Angelo: I'm a freshman at the University of Washington. When not programming or online I'm usually hanging out at Thorntons or playing Smash Bros.
+Andrew D'Angelo: I'm currently a freshman at the University of Washington intending to study computer science.
 
-Programmer in C (GBA & PC), C# (WP8 & Metro), Python, and Scheme. I can be found on [irc.rizon.net](http://rizon.net) under the nick `excel`.
+Programmer in C (GBA & PC), C# (WP8 & Metro), F#, Python, and Scheme. I can be found on [irc.rizon.net](http://rizon.net) under the nick `excel`.
 
-My resumé can be found [here]({{ site.url }}/resume.html)
+My resum&eacute; can be found [here]({{ site.url }}/resume.html)
 
 #### PGP Data
 

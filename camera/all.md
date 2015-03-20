@@ -1319,3 +1319,70 @@ title: Photo Dojo
 		Enjoying Chicken Shack</td>
 	</tr></table>
 </p>
+
+<h3>January 2015</h3>
+<p>Final week of winter break
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/textorjamesmcd.bmp" /><br />
+		Textor and James at McDonalds</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/basicdennys.bmp" /><br />
+		Goodbye Dennys</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/foschigame.bmp" /><br />
+		Foschi game face</td>
+	</tr></table>
+</p>
+
+<h3>March 2015</h3>
+<p>Around UW campus
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/physicshall.bmp" /><br />
+		Physics lecture hall</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/railing2.bmp" /><br />
+		Railing</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/mcmahon.bmp" /><br />
+		Residence hall</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/wave.bmp" /><br />
+		Physics artwork</td>
+	</tr></table>
+</p>
+
+<p>Around Seattle
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/coffee.bmp" /><br />
+		Morning coffee</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/brytenalec.bmp" /><br />
+		Bryten and Alec</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/bridge.bmp" /><br />
+		Exploring a bridge</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/alecjoe.bmp" /><br />
+		Alec and Joe</td>
+	</tr></table>
+</p>
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/walkback.bmp" /><br />
+		Walking back</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rockparkinglot.bmp" /><br />
+		Rock in the parking lot</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/mcmahoncorner.bmp" /><br />
+		Edge of the plaza</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/goodluck.bmp" /><br />
+		Good Luck</td>
+	</tr></table>
+</p>
