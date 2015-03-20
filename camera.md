@@ -38,7 +38,7 @@ title: Photo Dojo
 <p>
 	<table border="0" cellpadding="4"><tr>
 		<td width="140" style="border: 1px solid blue;"><a href="camera/2015.html">
-			<img src="{{ site.url }}/assets/images/gameboy/balcony.bmp" /><br />
+			<img src="{{ site.url }}/assets/images/gameboy/goodluck.bmp" /><br />
 			2015</a>
 		</td>		
 	</tr></table>
