@@ -1424,7 +1424,7 @@ title: Photo Dojo
 <p>ECCC Day 2
 	<table border="0" cellpadding="4"><tr>
 
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/eccday2.bmp" /><br />
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ecccday2.bmp" /><br />
 		Fran in 2nd day's costime</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/tauntaun.bmp" /><br />
