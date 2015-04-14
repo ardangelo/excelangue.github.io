@@ -1425,7 +1425,7 @@ title: Photo Dojo
 	<table border="0" cellpadding="4"><tr>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ecccday2.bmp" /><br />
-		Fran in 2nd day's costime</td>
+		Fran for ECCC day 2</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/tauntaun.bmp" /><br />
 		Tauntaun costume</td>
