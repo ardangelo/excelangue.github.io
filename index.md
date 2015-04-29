@@ -6,7 +6,7 @@ title: Main Page
 
 ##About
 
-Andrew D'Angelo: I'm currently a freshman at the University of Washington intending to study computer science.
+Andrew D'Angelo: I'm currently a freshman at the University of Washington intending to study computer science. My projects currently involve machine learning and neural network simulaton.
 
 Programmer in C (GBA & PC), C# (WP8 & Metro), F#, Python, and Scheme. I can be found on [irc.rizon.net](http://rizon.net) under the nick `excel`.
 
