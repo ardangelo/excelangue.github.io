@@ -1026,7 +1026,7 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
-<p>
+<p><p>Beginning the deadbeat summer
 	<table border="0" cellpadding="4"><tr>
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/mecharlie2.bmp" /><br />
 		Me and Charlie</td>
@@ -1435,5 +1435,92 @@ title: Photo Dojo
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/tauntaunhug.bmp" /><br />
 		Hugging tauntaun</td>
+	</tr></table>
+</p>
+
+<h3>June 2015</h3>
+<p>End of Freshman Year
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/redbullcar.bmp" /><br />
+		Red Bull car</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/brytenalecstatue.bmp" /><br />
+		Bryten and Alec</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/golfcart.bmp" /><br />
+		Found a golf cart</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/bollards.bmp" /><br />
+		Quad</td>
+	</tr></table>
+</p>
+
+<p>Return to Chicago
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/emryalextbk.bmp" /><br />
+		Taco Burrito King</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/glempmechinatown.bmp" /><br />
+		Danny, Josue and I visit Chinatown</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/foschichicken.bmp" /><br />
+		Foschi enjoys fried chicken</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/frothydelight.bmp" /><br />
+		Return to Thorntons</td>
+	</tr></table>
+</p>
+
+<h3>July 2015</h3>
+<p>Independence Day Fireworks
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/foschitextorevanston.bmp" /><br />
+		In downtown Evanston</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/textorevanston.bmp" /><br />
+		Textor outside Taco Bell</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/foschimebeach.bmp" /><br />
+		At the beach for fireworks</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/jeweljuly3.bmp" /><br />
+		Post-fireworks pastry shopping</td>
+	</tr></table>
+</p>
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/gabemedennys.bmp" /><br />
+		Gabe and I at Dennys</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/foschitextorgabe.bmp" /><br />
+		Foschi, Textor and Gabe at Burger King</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/gabepappas.bmp" /><br />
+		Gabe and Pappas at the beach</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/forrestme.bmp" /><br />
+		Forrest and me</td>
+	</tr></table>
+</p>
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/centerbite.bmp" /><br />
+		Owen eats a Pop-Tart</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/pappastextorfoschi.bmp" /><br />
+		Walking downtown</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/timmy.bmp" /><br />
+		Emry's cat</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/forrestmirror.bmp" /><br />
+		Forrest on the road</td>
 	</tr></table>
 </p>

@@ -17,9 +17,10 @@ Summary
 Education
 ---------
 
-*	**Student, University of Washington** 2014 - Present
-
+*	**Undergraduate, University of Washington** 2014 - Present
 	-	Currently a freshman intending to study Computer Science
+	-	2014 – 2015: Dean’s List with 3.9 GPA
+
 	
 *	**Student, New Trier High School** 2010 - 2014
 
