@@ -10,7 +10,7 @@ Andrew D'Angelo: I'm a junior at the University of Washington intending to study
 
 Programmer in C (GBA & PC), C#, F#, Python, and Scheme. I can be found on [irc.rizon.net](http://rizon.net) under the nick `excel`.
 
-My resum&eacute; can be found [here]({{ site.url }}/resume.html).
+My r&eacute;sum&eacute; can be found [here]({{ site.url }}/resume.html).
 
 #### PGP Data
 

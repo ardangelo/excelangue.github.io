@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resumé
+title: Résumé
 ---
 {% include JB/setup %}
 
