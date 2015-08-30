@@ -6,7 +6,7 @@ title: Main Page
 
 ##About
 
-Andrew D'Angelo: I'm currently a sophomore at the University of Washington intending to study computer science and applied mathematics. My projects currently involve machine learning and recurrent neural networks.
+Andrew D'Angelo: I'm a junior at the University of Washington intending to study computer science and applied mathematics. My current projects involve machine learning and recurrent neural networks.
 
 Programmer in C (GBA & PC), C#, F#, Python, and Scheme. I can be found on [irc.rizon.net](http://rizon.net) under the nick `excel`.
 
@@ -14,23 +14,9 @@ My resum&eacute; can be found [here]({{ site.url }}/resume.html)
 
 #### PGP Data
 
-`71D1 5FED` revoked on 7-11-2013
-
-`D0F7 24E7` revoked on 3-6-2014
-
 Fingerprint: `9763 0523 B54B 17E4 0ECE  42C6 F2D9 8C89 394E 5B3A`
 
 Public key: [pubkey.txt]({{ site.url }}/assets/text/pubkey.txt)
-
-#### 3DS Friend Code
-
-`5086 2544 8580`
-
-## Posts
-
-{% for post in site.posts %}
-  * {{ post.date | date: "%B %e, %Y" }} &raquo; [{{ post.title }}]({{ post.url }})
-{% endfor %}
 
 ---
 

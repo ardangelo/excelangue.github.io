@@ -3,7 +3,9 @@
     <img src="/assets/images/logo.png" id="logo" alt="Blog logo"/>
   </a>
   <h2><a href="/">{{ site.name }}</a></h2>
+
   <hr/>
+
   <ul>
   <p>{{ site.tagline }}</p>
   <hr/>
@@ -15,7 +17,13 @@
   <h3>Navigation</h3>
   <p><a href="/">home</a></p>
   <p><a href="/resume.html">resume</a></p>
-  <p><a href="/archive.html">posts</a></p>
+  <p><a href="/archive.html">all posts</a></p>
   <p><a href="/camera.html">gbcamera</a></p>
   </ul>
+
+  <h3>Recent Posts</h3>
+  <ul>
+  {% for post in site.posts %}
+  <li>{{ post.date | date: "%Y-%m-%d" }} &raquo; [{{ post.title }}]({{ post.url }})</li>
+  {% endfor %}
 </nav>
