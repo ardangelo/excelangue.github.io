@@ -52,6 +52,5 @@ Work Experience
 	-	System set-up and maintenance for health insurance events. Responsibilities included wired and wireless network configuration, cabling, Windows networking, and troubleshooting
 
 *	**Published two apps to the Windows Phone store** May 2014
-
 	-	*Thorntons++*: a customer loyalty and coupon app for a gas station chain
 	-	*Omeddle*: an Omegle chat client with the additional ability to intercept and modify messages sent by other users
