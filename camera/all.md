@@ -1544,23 +1544,6 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
-<p>U of I Research Park and beyond
-	<table border="0" cellpadding="4"><tr>
-
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/researchpark.bmp" /><br />
-		Research Park building</td>
-
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rpstatue.bmp" /><br />
-		Statue 1</td>
-
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rpstatue2.bmp" /><br />
-		Statue 2</td>
-
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/byeuiuc.bmp" /><br />
-		Bye, UIUC</td>
-	</tr></table>
-</p>
-
 <p>U of I Research Park
 	<table border="0" cellpadding="4"><tr>
 
