@@ -1578,12 +1578,6 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
-<table border="0">
-<tr>
-	<td rowspan="3" width="140"><img src="{{ site.url }}/assets/images/gameboy/antenna.bmp" /><br />
-	WHMS Antenna</td>
-	<td>
-
 <p>Heading west
 	<table border="0" cellpadding="4"><tr>
 
@@ -1628,6 +1622,3 @@ title: Photo Dojo
 		Meters</td>
 	</tr></table>
 </p>
-
-	</td>
-</tr></table>
