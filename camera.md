@@ -4,11 +4,13 @@ title: Photo Dojo
 ---
 {% include JB/setup %}
 
-<p>To transfer these images, I use Rob Poke's method, available <a href="http://robpoke.com/game-boy-camera-photos-to-pc/">here</a>. Transfer and extraction tools for Windows can be downloaded <a href="{{ site.url }}/assets/files/ems64m-win.zip">here</a>, and transfer tools for OS X <a href="{{ site.url }}/assets/files/ems64m-osx.zip">here</a>. OS X and Linux extraction can be accomplished with my utility <a href="https://github.com/excelangue/gbcdump">gbcdump</a>.</p>
+<p>To transfer these images, I use a Game Boy <a href="http://www.amazon.com/Mega-Memory-Card/dp/B00002R108">Mega Memory Card</a> to transfer the battery save from the GB Camera to an <a href="http://store.kitsch-bent.com/product/usb-64m-smart-card">EMS 64m flash cart</a> (originally from <a href="http://robpoke.com/game-boy-camera-photos-to-pc/">Rob Poke</a>).</p>
+<p>Transfer and extraction tools for Windows can be downloaded <a href="{{ site.url }}/assets/files/ems64m-win.zip">here</a>, and transfer tools for OS X <a href="{{ site.url }}/assets/files/ems64m-osx.zip">here</a>. OS X and Linux extraction can be accomplished with my utility <a href="https://github.com/excelangue/gbcdump">gbcdump</a>.</p>
 
-<p>[<a href="{{ site.url }}/assets/images/gameboy/all/">collection</a>] Uncurated images.</p>
-
-<h2><a href="camera/all.html">Unpaginated</a></h2>
+<ul>
+	<li><a href="camera/all.html">Unpaginated</a></li>
+	<li><h2>Latest update: <a href="2015.html#latest">Sept. 2015</a></h2></li>
+</ul>
 
 <h3>Years</h3>
 <p>
