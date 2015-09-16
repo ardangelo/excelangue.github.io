@@ -10,6 +10,7 @@ Andrew D'Angelo
 Contact: [dangeloandrew@outlook.com](mailto:dangeloandrew@outlook.com)
 
 TeX version: [andrew-dangelo-resume.tex]({{ site.url }}/assets/text/andrew-dangelo-resume.tex)
+
 PDF version: [andrew-dangelo-resume.pdf]({{ site.url }}/assets/text/andrew-dangelo-resume.pdf)
 
 Summary
