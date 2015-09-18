@@ -62,7 +62,7 @@ I have hidden both of these apps from the Windows Phone Store, as they no longer
 
 ![Omeddle Icon]({{ site.url }}/assets/images/om-icon.png) 
 
-I finished and published this app during Microsoft's //publish/ 2014 event in Chicago, where I won 3rd place in the overall local app competition. At its peak it had around 2,000 downloads per month, and hoevered around 500 downloads a month before being pulled for a total of 8,000 downloads.
+I finished and published this app during Microsoft's //publish/ 2014 event in Chicago, where I won 3rd place in the overall local app competition. At its peak it had around 2,000 downloads per month, and hovered around 500 downloads a month before being pulled for a total of 8,000 downloads.
 
 #### Description
 
