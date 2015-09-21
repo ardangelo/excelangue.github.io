@@ -12,7 +12,7 @@ If you're interested, I recommend reading at least the first part of the article
 
 Keeping with the theme of "making it from scratch", here are the the necessary matrix operations.
 
-```scheme
+{% highlight scheme %}
 (define (matrix-multiply x y)
   (map (lambda (row) (apply map 
     (lambda column (apply + (map * row column))) y)) x))
@@ -21,7 +21,7 @@ Keeping with the theme of "making it from scratch", here are the the necessary m
 
 (define (transpose m) 
   (apply map list m))
-```
+{% endhighlight %}
 
 ## Adding two bits
 
@@ -33,26 +33,26 @@ In the first section, we'll just do some basic addition of two bits. Two inputs,
 
 The basic unit of decision making is the "neuron". Given any number of inputs it will return the result of a singular output based on a bias and per-input weights and fed into an "activation function".
 
-```scheme
+{% highlight scheme %}
 (define (neuron activation-function input weight bias)
   (activation-function (+ (* input weight) bias)))
 '''
 
 The simplest "neuron", the perceptron, uses the step function as its activation function. If the input is less than zero, it outputs a `1`. Otherwise, it outputs a `0`. 
 
-```scheme
+{% highlight scheme %}
 (define (step-function z)
   (if (< 0 z) 1 0))
-```
+{% endhighlight %}
 
 Later, we'll use a common type of activation function, the sigmoid function. This function is a smooth curve instead of a sharp step, allowing for a "learning" routine where weights and balances are tuned to slightly vary a decimal output as opposed to a strictly binary output.
 
 Thus a perceptron can be implemented as 
 
-```scheme
+{% highlight scheme %}
 (lambda (input weight bias)
   (step-function (+ (* input weight) bias)))
-```
+{% endhighlight %}
 
 ### The NAND gate
 
@@ -60,12 +60,12 @@ We can implement a NAND gate in a perceptron by using two inputs, each with weig
 
 To do this, we need to first adapt the genereralized `neuron` function to accept multiple inputs and weights. To do this, we'll use a `1x2` matrix for the weights and `2x1` matrix for the input. That way, they'll multiply nicely. 
 
-```scheme
+{% highlight scheme %}
 (define neuron (activation-function inputs weights bias)
   (activation-function (+ 
     (caar (matrix-multiply weights inputs))
     bias)))
-```
+{% endhighlight %}
 
 The `caar` is to turn the `1x1` matrix into a number for the step function.
 
@@ -83,9 +83,9 @@ In examining the design of a 1-bit binary adder, the inputs feed into neuron `A`
 
 Notice how the weight of `A` to the carry bit output (techincally to the "pass" neuron and then to the output) has a weight of `-4`. This is because the output of `A` feeds into both inputs of the NAND gate.
 
-```
+{% endhighlight %}
 -2 * i1 + -2 * i1 = -4 * i1
-```
+{% endhighlight %}
 
 Now that the layering problem is solved, we can begin to encode the network as a bunch of matricies. Again, taking from the original article, we will encode weights as a list of `MxN` matricies where `M` is the number of receiving neurons and `N` is the number of sending neurons. For example, the weight of the connection between input neuron `x1` and the `A` would be row `2`, column `1`. If there is no connection between neurons, the weight is simply `0`. Going from input `x2` to "pass neuron" `p2` would correspond to row `3`, column `2` and have a weight of `0`.
 
@@ -99,7 +99,7 @@ Finally, the inputs. This is the easy part. Simply a `Nx1` matrix where `N` is t
 
 For the 1-bit binary adder, the weights and biases are encoded as such:
 
-```scheme
+{% highlight scheme %}
 (define weights '(
   ((1 0) (-2 -2) (0 1)) 
   ((-2 -2 0) (0 -2 -2) (0 1 0)) 
@@ -108,23 +108,23 @@ For the 1-bit binary adder, the weights and biases are encoded as such:
   ((0) (3) (0)) 
   ((3) (3) (0)) 
   ((3) (3))))
-```
+{% endhighlight %}
 
 ### Computing the result of the neural network
 
 From a high level, we need to multiply the input matrix `A` by weight matrix `W[0]` and add bias matrix `B[0]`, yielding `A'`. Repeat again with `A'` as the input for the next layer of neurons (weight matrix `W[1]` and bias matrix `B[1]`), until the network is done "feeding the results forward".
 
-```scheme
+{% highlight scheme %}
 feed-forward (A, W, B) {
   if (w is null) return a
   A' = map(activation-function, car(W) * transpose(A) + car(B))
   feed-forward(A', cdr(W), cdr(B))
 }
-```
+{% endhighlight %}
 
 Because the list of weight and bias matricies are the same length, they'll run out at the same time. translating into Scheme we get:
 
-```scheme
+{% highlight scheme %}
 (define (feed-forward a-f a w b)
   (if (null? w) a
     (feed-forward 
@@ -136,7 +136,7 @@ Because the list of weight and bias matricies are the same length, they'll run o
             (car b)))) 
           (cdr w) 
       (cdr b))))
-```
+{% endhighlight %}
 
 We need to `(map car ... )` and `(transpose (list a))` to provide a numerical input to the activation function and to get everything in the proper form for matrix multiplication respectively.
 
@@ -144,7 +144,7 @@ We need to `(map car ... )` and `(transpose (list a))` to provide a numerical in
 
 Now that we have a `feed-forward` procedure, activation function, and some weights and biases, let's put it all together:
 
-```scheme
+{% highlight scheme %}
 ;matrix & vector functions
 (define (matrix-multiply m n)
   (map (lambda (row) (apply map 
@@ -185,11 +185,11 @@ Now that we have a `feed-forward` procedure, activation function, and some weigh
     ((3) (3))))
 
   (feed-forward step-function (list x y) weights biases))
-```
+{% endhighlight %}
 
 ### Testing it out:
 
-```
+{% endhighlight %}
 1 ]=> (add-two-bits 0 1)
 
 ;Value 1: (1 0)
@@ -197,7 +197,7 @@ Now that we have a `feed-forward` procedure, activation function, and some weigh
 1 ]=> (add-two-bits 1 1)
 
 ;Value 2: (0 1)
-```
+{% endhighlight %}
 
 Since I initially published this article, I've turned these foundations into an actual machine learning library called [Neural.NET](https://github.com/excelangue/Neural.NET) (however in F# instead of Scheme). Included in the library project is NeuralTeach, a command line program that trains a feed-forward net to recognize handwritten numbers.
 
