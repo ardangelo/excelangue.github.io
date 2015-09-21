@@ -56,19 +56,15 @@ Input Game Boy camera battery saves and output bitmaps. Requires `libbmp`
 
 ## Apps
 
-I have hidden both of these apps from the Windows Phone Store, as they no longer work with the websites they were designed to access, and I currently don't have enough time to dedicate towards fixing them. Both can still be viewed on the Store by clicking the respective Store banners.
+I have hidden both of these apps from the Windows Phone Store, as they no longer work with the websites they were designed to access and I currently don't have enough time to dedicate towards fixing them. Both can still be viewed on the Store by clicking the respective Store banners.
 
 ### Omeddle
 
 ![Omeddle Icon]({{ site.url }}/assets/images/om-icon.png) 
 
-I finished and published this app during Microsoft's //publish/ 2014 event in Chicago, where I won 3rd place in the overall local app competition. At its peak it had around 2,000 downloads per month, and hovered around 500 downloads a month before being pulled for a total of 8,000 downloads.
+I finished and published this app during Microsoft's //publish/ 2014 event in Chicago, where I won 3rd place in the overall local app competition. At its peak it had around 2,000 downloads per month, and hovered around 500 downloads a month before being pulled for a total of 8,000 downloads. Source code in this [github repository](https://github.com/excelangue/gbcdump).
 
-#### Description
-
-Don't just chat with Omegle users, meddle with them! Omeddle is not only a fully-featured Omegle client (Classic chat, ask and answer questions), but also puts a fun twist on the classic Omegle formula: not only can you chat, you can also control! Sit between two unsuspecting Omegle users and control the conversation by masquerading as the Stranger and modify messages with simple find and replace or regular expressions. 
-
-Also features image sharing and management (upload pictures to share during a chat, as well as view and delete any image from Imgur that was uploaded during previous chats) and easy chatlog sharing with PasteBin!
+Omeddle was not only a fully-featured Omegle client, but also also allowed you to MITM two unsuspecting Omegle users, control the conversation by masquerading as the Stranger, and modify messages with simple find and replace or regular expressions. Also featured integrated image sharing and management with Imgur and chatlog sharing with Pastebin.
 
 [![Windows Phone Store 8 Banner]({{ site.url}}/assets/images/154x40_WP_Store_gry.png)](http://www.windowsphone.com/en-us/store/app/omeddle/e99fbcac-c908-43e0-87c0-2c69e394a466)
 
@@ -76,10 +72,6 @@ Also features image sharing and management (upload pictures to share during a ch
 
 ![Thorntons++ Icon]({{ site.url }}/assets/images/tpp-icon.png) 
 
-Thorntons++ has been pulled from the Store due to Thorntons changing loyalty and coupon system. This will require a total rewrite of Thorntons++.
-
-#### Description
-
-Thorntons++ is my first Windows Phone app, an unofficial OpenStore client that allows you to get the latest Thorntons coupons and deals on Windows Phone 8 and to save your FREEquency Rewards card. While the official Android and iOS apps collect personal data such as location, phone number, and phone model, Thorntons++ generates this information randomly. Coupons are not erased after use and can be used offline.
+Thorntons++ was my first Windows Phone app, an unofficial OpenStore client that allows you to get the latest Thorntons coupons and deals on Windows Phone 8 and to save your FREEquency Rewards card. While the official Android and iOS apps collect personal data such as location, phone number, and phone model, Thorntons++ generates this information randomly. Coupons are not erased after use and can be used offline.
 
 [![Windows Phone Store 8 Banner]({{ site.url}}/assets/images/154x40_WP_Store_gry.png)](http://www.windowsphone.com/en-us/store/app/thorntons/3414a6e0-2f63-4697-88fe-ddd266ccc971)

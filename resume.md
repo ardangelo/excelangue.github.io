@@ -16,7 +16,7 @@ PDF version: [andrew-dangelo-resume.pdf]({{ site.url }}/assets/text/andrew-dange
 Summary
 -------
 	
-*	A dedicated and talented student with a strong mathematical background that wants to leverage self-taught experience both using and creating computer software.
+*	A dedicated and creative student with a strong mathematical background who wants to leverage both self-taught and formal experience designing and writing computer software. Able to design architectures and algorithms at a high level and then implement solutions at a lower level in any of a multitude of languages and frameworks.
 
 Education
 ---------
@@ -46,15 +46,15 @@ Work Experience
 ---------------
 
 *	**Software Engineering Intern** at Quicket Solutions, Champaign, IL: August 2015 – September 2015
-	-	Wrote and maintained database interface and backend management code in Python with Web2Py creating an end-to-end electronic police citation management service .
-	-	Experienced designing and implementing solutions in a tight-knit, collaborative group and planning extensible and robust systems for data processing in a fast moving startup environment.
+	-	Wrote and maintained database interface and backend management Python and Web2Py code creating a complete electronic police citation management service.
+	- Experienced designing and implementing software solutions in a tight-knit, collaborative group and planning extensible and robust systems for data processing in a fast moving startup environment.
 
 *	**Technical Consultant** for Panorama Innovation, Wilmette, IL: June 2014 – September 2014
-	-	Research, software design & implementation for retail intelligence systems using Python, OpenWRT, and Linux.
+	-	Research, system design \& software implementation for retail intelligence systems using OpenWRT on commodity access points for data collection and Python for data processing and analytics.d Linux.
 
-*	**Event Technician** at Unite Here Health, Chicago, IL: July 2014 – August 2014
-	-	System set-up and maintenance for health insurance events. Responsibilities included wired and wireless network configuration, cabling, Windows networking, and troubleshooting.
+*	**IT Technician** at Unite Here Health, Chicago, IL: July 2014 – August 2014
+	-	Computer system set-up and maintenance for health insurance events. Responsibilities included wired and wireless network configuration, cabling, Windows networking, and troubleshooting.
 
 *	**Published two apps to the Windows Phone store** May 2014
 	-	*Thorntons++*: a customer loyalty and coupon app for a gas station chain.
-	-	*Omeddle*: an Omegle chat client with the additional ability to intercept and modify messages sent between other Omegle users.
+	-	*Omeddle*: an Omegle chat client with the additional ability to intercept and modify messages sent between other Omegle users. Peaked at 2,000 downloads a month, won 3rd place at the 2014 Microsoft //publish/ event in the Chicago app competition.
