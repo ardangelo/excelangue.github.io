@@ -1157,7 +1157,7 @@ title: Photo Dojo
 </p>
 
 <h3>September 2014</h3>
-<p>Visiting Textor, Foschi, Alex at U of Iowa
+<p>Road Trip 2014: Visiting Textor, Foschi, Alex at U of Iowa
 	<table border="0" cellpadding="4"><tr>
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/meemrytrip.bmp" /><br />
 		On the highway</td>
@@ -1620,5 +1620,105 @@ title: Photo Dojo
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/meters.bmp" /><br />
 		Meters</td>
+	</tr></table>
+</p>
+
+<p>Road Trip 2015: Visiting Owen, Alex at U of Minnesota
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/roadtrip2015.bmp" /><br />
+		Starting out in Illinois</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/emryculvers.bmp" /><br />
+		Emry at Wisconsin Culver's</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/starmonument.bmp" /><br />
+		Monument</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/beachhouse.bmp" /><br />
+		Saw Beach House at First Avenue Minneapolis</td>
+	</tr></table>
+</p>
+
+<p>Al's Breakfast at Dinkytown
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/als.bmp" /><br />
+		Pre-Al's</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/alscounter.bmp" /><br />
+		Al's counter</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/emryals.bmp" /><br />
+		Emry with his sausages</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/meemryals.bmp" /><br />
+		Post-Al's</td>
+	</tr></table>
+</p>
+
+<p>Around Minneapolis
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/owenminneapolis.bmp" /><br />
+		Owen at Crosswalk</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/minneapolis.bmp" /><br />
+		Over a bridge</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/gopherfrathouse.bmp" /><br />
+		Gopher tikis at a frathouse</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/dinkytown.bmp" /><br />
+		Dinkytown</td>
+	</tr></table>
+</p>
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/kittycorner.bmp" /><br />
+		Breakfast</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/mallofamerica.bmp" /><br />
+		Visited Mall of America</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/moalegostatue.bmp" /><br />
+		Mall LEGO statues</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/gopherfrat.bmp" /><br />
+		More gopher tiki</td>
+	</tr></table>
+</p>
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/owenhw.bmp" /><br />
+		Owen in room</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/bluegene.bmp" /><br />
+		IBM Blue Gene at UMN</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/allshaq.bmp" /><br />
+		Shaq Sodas</td>
+
+	</tr></table>
+</p>
+
+<p>Heading back to Chicago
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/halloweenwhopper.bmp" /><br />
+		Breakfast II</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/foschimn.bmp" /><br />
+		Met up with Iowa crew in Bloomington, MN</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/culvers.bmp" /><br />
+		More Wisconsin Culver's</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/subsshell.bmp" /><br />
+		Back; Final Subs</td>
 	</tr></table>
 </p>
