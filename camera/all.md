@@ -1524,8 +1524,6 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
-<a name="latest"></a>
-
 <h3>September 2015</h3>
 <p>Around the University of Illinois
 	<table border="0" cellpadding="4"><tr>
@@ -1622,6 +1620,8 @@ title: Photo Dojo
 		Meters</td>
 	</tr></table>
 </p>
+
+<a name="latest"></a>
 
 <p>Road Trip 2015: Visiting Owen, Alex at U of Minnesota
 	<table border="0" cellpadding="4"><tr>
