@@ -9,7 +9,7 @@ title: SmileBASIC Projects
 There are three ways to share programs:
 <ol>
 	<li>Over the Internet using the official SmileBASIC servers</li>
-	<li>Copy source to PC using Rei's [PetitModem](http://rei.to/petitmodem_en.html) software ([software mirror]({{ site.url}}/assets/files/PetitModemPC1.2.7.zip), SmileBASIC key `NKX3KE13`)</li>
+	<li>Copy source to PC using Rei's <a href="http://rei.to/petitmodem_en.html>PetitModem</a> software (<a href="{{ site.url}}/assets/files/PetitModemPC1.2.7.zip">PC mirror</a>, SmileBASIC key <tt>NKX3KE13</tt>)</li>
 	<li>Type in by hand :-)</li>
 </ol>
 
@@ -21,6 +21,6 @@ A LISP interpreter for SmileBASIC. I hope to eventually build a LISP development
 
 Version History
 <ul>
-	<li>**0.1** 2015-10-18: Abstracted parsing and input, added LOAD primitive for file input</li>
-	<li>**0.0** 2015-10-16: Successfully ported D. Menezes' [QBASIC LISP](https://www.ma.utexas.edu/users/dmenezes/lisp.html)</li>
+	<li><b>0.1</b> 2015-10-18: Abstracted parsing and input, added LOAD primitive for file input</li>
+	<li><b>0.0</b> 2015-10-16: Successfully ported D. Menezes' <a href="https://www.ma.utexas.edu/users/dmenezes/lisp.html">QBASIC LISP</a></li>
 </ul>
