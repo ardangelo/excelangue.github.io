@@ -9,7 +9,7 @@ title: SmileBASIC Projects
 There are three ways to share programs:
 <ol>
 	<li>Over the Internet using the official SmileBASIC servers</li>
-	<li>Copy source to PC using Rei's <a href="http://rei.to/petitmodem_en.html>PetitModem</a> software (<a href="{{ site.url}}/assets/files/PetitModemPC1.2.7.zip">PC mirror</a>, SmileBASIC key <tt>NKX3KE13</tt>)</li>
+	<li>Copy source to PC using Rei's <a href="http://rei.to/petitmodem_en.html">PetitModem</a> software (<a href="{{ site.url}}/assets/files/PetitModemPC1.2.7.zip">PC mirror</a>, SmileBASIC key <pre>NKX3KE13</pre>)</li>
 	<li>Type in by hand :-)</li>
 </ol>
 
