@@ -8,8 +8,8 @@ title: SmileBASIC Projects
 
 There are three ways to share programs:
 <ol>
-	<li>Over the Internet using the official SmileBASIC servers</li>
-	<li>Copy source to PC using Rei's <a href="http://rei.to/petitmodem_en.html">PetitModem</a> software (<a href="{{ site.url}}/assets/files/PetitModemPC1.2.7.zip">PC mirror</a>, SmileBASIC key <pre>NKX3KE13</pre>)</li>
+	<li>Upload to SmileBASIC servers, download using a SmileBASIC key</li>
+	<li>Copy source to PC using Rei's <a href="http://rei.to/petitmodem_en.html">PetitModem</a> software (<a href="{{ site.url}}/assets/files/PetitModemPC1.2.7.zip">PC mirror</a>, SmileBASIC key <b>NKX3KE13</b>)</li>
 	<li>Type in by hand :-)</li>
 </ol>
 
@@ -17,10 +17,14 @@ There are three ways to share programs:
 
 ### SmileBASIC LISP
 
-A LISP interpreter for SmileBASIC. I hope to eventually build a LISP development environment on top of this. Future features: Garbage collection and an interface with native SmileBASIC commands from within LISP.
+A LISP-1 interpreter for SmileBASIC. I hope to eventually build a LISP development environment on top of this. Future features: Improved garbage collection, tail-call optimization, and an interface with native SmileBASIC commands from within LISP.
+
+Sample LISP code with some simple functions: <b>XKA84J4F</b>
 
 Version History
 <ul>
-	<li><b>0.1</b> 2015-10-18: Abstracted parsing and input, added LOAD primitive for file input</li>
+	<li><b>0.3</b> 2015-10-26: Added PRINT statement and working mark-sweep garbage collection (Key <b>W47NA38J</b>)</li>
+	<li><b>0.1</b> 2015-10-18: Rewrote parts using more SmileBASIC, added LOAD primitive for file input. (Key <b>BDEE32HV</b>)</li>
 	<li><b>0.0</b> 2015-10-16: Successfully ported D. Menezes' <a href="https://www.ma.utexas.edu/users/dmenezes/lisp.html">QBASIC LISP</a></li>
+	<li>2015-10-15: SmileBASIC is released on the North American 3DS eShop</li>
 </ul>
