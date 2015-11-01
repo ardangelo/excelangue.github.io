@@ -1637,8 +1637,6 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
-<a name="latest"></a>
-
 <p>Road Trip 2015: Visiting Owen, Alex at U of Minnesota
 	<table border="0" cellpadding="4"><tr>
 
@@ -1736,5 +1734,102 @@ title: Photo Dojo
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/subsshell.bmp" /><br />
 		Back; Final Subs</td>
+	</tr></table>
+</p>
+
+<a name="latest"></a>
+
+<h3>October 2015</h3>
+<p>Return to Seattle
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/christianlangley.bmp" /><br />
+		New roommates Christian and Langely</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/dryerase.bmp" /><br />
+		Dry erase bird</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/alecstudio.bmp" /><br />
+		Alec's studio space</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/alecstudio2.bmp" /><br />
+		Around the studio</td>
+	</tr></table>
+</p>
+
+<p>Around Fremont
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/fremontbuilding.bmp" /><br />
+		Building</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/fremontgoogle.bmp" /><br />
+		Google office</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/fremontpark.bmp" /><br />
+		At a park</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/fremontpath.bmp" /><br />
+		Bike path west</td>
+	</tr></table>
+</p>
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+		<td width="512">
+		<img src="{{ site.url }}/assets/images/gameboy/fremontpano.bmp" /><br />
+		Fremont</tr>
+	</table>
+</p>
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/fremontpath2.bmp" /><br />
+		Walking northwest</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/mefremont.bmp" /><br />
+		Me</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/dinosaurbush.bmp" /><br />
+		Dinosaur bushes</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/powerline.bmp" /><br />
+		Power line</td>
+	</tr></table>
+</p>
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/theochocolate.bmp" /><br />
+		Theo Chocolate factory</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/mischiefbrew.bmp" /><br />
+		Mischief Distillery</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/mischiefbrew2.bmp" /><br />
+		</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/forsale.bmp" /><br />
+		For Sale</td>
+	</tr></table>
+</p>
+
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/fremontconstruction.bmp" /><br />
+		Construction</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/hales.bmp" /><br />
+		Hale's Palladium</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/whichwich.bmp" /><br />
+		Which Wich on the Ave</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ateam.bmp" /><br />
+		A-Team</td>
 	</tr></table>
 </p>
