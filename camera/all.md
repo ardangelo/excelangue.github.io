@@ -1777,8 +1777,9 @@ title: Photo Dojo
 <p>
 	<table border="0" cellpadding="4"><tr>
 		<td width="512">
-		<img src="{{ site.url }}/assets/images/gameboy/fremontpano.bmp" /><br />
+			<img src="{{ site.url }}/assets/images/gameboy/fremontpano.bmp" /><br />
 		Fremont</tr>
+		</td>
 	</table>
 </p>
 
