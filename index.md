@@ -6,7 +6,7 @@ title: Main Page
 
 ##About
 
-Andrew D'Angelo: I'm a junior at the University of Washington intending to study computer science and applied mathematics. My current projects involve machine learning and recurrent neural networks.
+Andrew D'Angelo: I'm a junior at the University of Washington studying computer science and applied mathematics. My current projects involve machine learning and recurrent neural networks.
 
 Programmer in C (GBA & PC), C#, F#, Python, and Scheme. I can be found on [irc.rizon.net](http://rizon.net) under the nick `excel`.
 

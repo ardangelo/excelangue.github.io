@@ -18,7 +18,7 @@ Education
 ---------
 
 *	**Undergraduate, University of Washington** 2014 - Present
-	-	Currently a junior intending to study Computer Science and Applied Mathematics
+	-	Currently a junior studying Computer Science and Applied Mathematics
 	-	2014 – 2015: Dean’s List with 3.9 GPA
 
 	
