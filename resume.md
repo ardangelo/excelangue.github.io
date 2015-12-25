@@ -17,10 +17,12 @@ Summary
 Education
 ---------
 
-*	**Undergraduate, University of Washington** 2014 - Present
-	-	Currently a junior studying Computer Science and Applied Mathematics
-	-	2014 – 2015: Dean’s List with 3.9 GPA
+* **Undergraduate, University of Illinois**, Champaign, IL Jan. 2016 - Present
+	-	Currently a junior studying Computer Science and Mathematics
 
+* **University of Washington**, Seattle, WA Sep. 2014 - Dec. 2015
+  * 2014 - 2015 school year: Dean's List with 3.8 GPA
+  * Nominated twice for the Soceity for Collegiate Leadership & Achievement soceity
 	
 *	**Student, New Trier High School** 2010 - 2014
 
@@ -46,7 +48,7 @@ Work Experience
 	- Experienced designing and implementing software solutions in a tight-knit, collaborative group and planning extensible and robust systems for data processing in a fast moving startup environment.
 
 *	**Technical Consultant** for Panorama Innovation, Wilmette, IL: June 2014 – September 2014
-	-	Research, system design \& software implementation for retail intelligence systems using OpenWRT on commodity access points for data collection and Python for data processing and analytics.d Linux.
+	-	Research, system design & software implementation for retail intelligence systems using OpenWRT on commodity access points for data collection and Python for data processing and analytics.d Linux.
 
 *	**IT Technician** at Unite Here Health, Chicago, IL: July 2014 – August 2014
 	-	Computer system set-up and maintenance for health insurance events. Responsibilities included wired and wireless network configuration, cabling, Windows networking, and troubleshooting.
