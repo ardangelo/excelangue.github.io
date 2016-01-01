@@ -1945,7 +1945,7 @@ title: Photo Dojo
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rotofugi.bmp" /><br />
 		</td>
 
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rotfugi2.bmp" /><br />
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rotofugi2.bmp" /><br />
 		</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rotofugi5.bmp" /><br />
