@@ -8,7 +8,7 @@ title: Photo Dojo
 <p>Transfer and extraction tools for Windows can be downloaded <a href="{{ site.url }}/assets/files/ems64m-win.zip">here</a>, and transfer tools for OS X <a href="{{ site.url }}/assets/files/ems64m-osx.zip">here</a>. OS X and Linux extraction can be accomplished with my utility <a href="https://github.com/excelangue/gbcdump">gbcdump</a>.</p>
 
 <ul>
-	<li><h2>Latest update: <a href="#latest">Sept. 2015</a></h2></li>
+	<li><h2>Latest update: <a href="#latest">Dec. 2015</a></h2></li>
 </ul>
 
 <h3>From around the web</h3>
@@ -1833,8 +1833,6 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
-<a name="latest"></a>
-
 <h3>November 2015</h3>
 <p>Visiting Sean
 	<table border="0" cellpadding="4"><tr>
@@ -1887,6 +1885,7 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
+<a name="latest"></a>
 
 <h3>December 2015</h3>
 <p>Around Gould Hall

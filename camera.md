@@ -9,7 +9,7 @@ title: Photo Dojo
 
 <ul>
 	<li><a href="camera/all.html">Unpaginated</a></li>
-	<li><h2>Latest update: <a href="camera/2015.html#latest">Nov. 2015</a></h2></li>
+	<li><h2>Latest update: <a href="camera/2015.html#latest">Dec. 2015</a></h2></li>
 </ul>
 
 <h3>Years</h3>
