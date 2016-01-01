@@ -1886,3 +1886,84 @@ title: Photo Dojo
 		Party from afar</td>
 	</tr></table>
 </p>
+
+
+<h3>December 2015</h3>
+<p>Around Gould Hall
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/grasshopper.bmp" /><br />
+		Grasshopper decoration</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/catan.bmp" /><br />
+		Alec's final project</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/stump.bmp" /><br />
+		Stump shelf</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/chrisclimb.bmp" /><br />
+		Chris attempts to climb back in</td>
+	</tr></table>
+</p>
+
+<p>Concert at The Castle before leaving Seattle
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/castle3.bmp" /><br />
+		Daniel on stage</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/castle4.bmp" /><br />
+		Castle art</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/castle.bmp" /><br />
+		Castlegoers</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/castle5.bmp" /><br />
+		Castle print</td>
+	</tr></table>
+</p>
+
+<p>Return to Chicago
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/foschitextmall.bmp" /><br />
+		At the mall</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/pappasmall.bmp" /><br />
+		Pappas at the Brookstone</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/emojis.bmp" /><br />
+		Emoji pillows</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ridge.bmp" /><br />
+		Ridge Ave.</td>
+	</tr></table>
+</p>
+
+<p>Visiting Rotofugi
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rotofuji.bmp" /><br />
+		</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rotfuji2.bmp" /><br />
+		</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rotofuji5.bmp" /><br />
+		</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rotofuji3.bmp" /><br />
+		</td>
+	</tr></table>
+</p>
+
+<p>New Year's Eve 2015
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/charliemetb.bmp" /><br />
+		Charlie and I reunited at Taco Bell</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/2359.bmp" /><br />
+		23:59:59</td>
+	</tr></table>
+</p>
