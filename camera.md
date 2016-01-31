@@ -9,7 +9,7 @@ title: Photo Dojo
 
 <ul>
 	<li><a href="camera/all.html">Unpaginated</a></li>
-	<li><h2>Latest update: <a href="camera/2015.html#latest">Dec. 2015</a></h2></li>
+	<li><h2>Latest update: <a href="camera/2016.html#latest">Jan. 2016</a></h2></li>
 </ul>
 
 <h3>Years</h3>
@@ -42,7 +42,12 @@ title: Photo Dojo
 		<td width="140" style="border: 1px solid blue;"><a href="camera/2015.html">
 			<img src="{{ site.url }}/assets/images/gameboy/goodluck.bmp" /><br />
 			2015</a>
-		</td>		
+		</td>
+
+		<td width="140" style="border: 1px solid blue;"><a href="camera/2016.html">
+			<img src="{{ site.url }}/assets/images/gameboy/stadium.bmp" /><br />
+			2016</a>
+		</td>
 	</tr></table>
 </p>
 
@@ -64,20 +69,38 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
+<h3>2015: In Review</h3>
+<p>
+	<table border="0" cellpadding="4"><tr>
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/textorjamesmcd.bmp" /><br />
+		Routine</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/alecjoe.bmp" /><br />
+		Haze</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/roadtrip2015.bmp" /><br />
+		Rolling</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/christianlangley.bmp" /><br />
+		Temporary</td>
+
+	</tr></table>
+</p>
+
 <h3>2014: In Review</h3>
 <p>
 	<table border="0" cellpadding="4"><tr>
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/parking.bmp" /><br />
-		Winter: Dry Cold</td>
+		Loiter</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/lastosupper.bmp" /><br />
-		Spring: Graduation</td>
+		Graduation</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/crown.bmp" /><br />
-		Summer: Dog Days</td>
+		Dog Days</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/franfrisk.bmp" /><br />
-		Fall: New Crowd</td>
+		New Crowd</td>
 
 	</tr></table>
 </p>
@@ -86,16 +109,16 @@ title: Photo Dojo
 <p>
 	<table border="0" cellpadding="4"><tr>
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/foschisnow.bmp" /><br />
-		Winter: Sleet</td>
+		Sleet</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/times.bmp" /><br />
-		Spring: Slow Days</td>
+		Slow</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/teresamecharlie.bmp" /><br />
-		Summer: Excursion</td>
+		Excursion</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/glempme.bmp" /><br />
-		Fall: Early Cold</td>
+		Early Cold</td>
 
 	</tr></table>
 </p>
@@ -104,16 +127,16 @@ title: Photo Dojo
 <p>
 	<table border="0" cellpadding="4"><tr>
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/gabeandrew.png" /><br />
-		Winter: Downtown</td>
+		Downtown</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/foschibars.png" /><br />
-		Spring: Around</td>
+		Around</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/kolnsign.png" /><br />
-		Summer: Fork</td>
+		Fork</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/spongebob.png" /><br />
-		Fall: Round 3</td>
+		Round 3</td>
 
 	</tr></table>
 </p>

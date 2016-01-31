@@ -8,7 +8,7 @@ title: Photo Dojo
 <p>Transfer and extraction tools for Windows can be downloaded <a href="{{ site.url }}/assets/files/ems64m-win.zip">here</a>, and transfer tools for OS X <a href="{{ site.url }}/assets/files/ems64m-osx.zip">here</a>. OS X and Linux extraction can be accomplished with my utility <a href="https://github.com/excelangue/gbcdump">gbcdump</a>.</p>
 
 <ul>
-	<li><h2>Latest update: <a href="#latest">Dec. 2015</a></h2></li>
+	<li><h2>Latest update: <a href="#latest">Jan. 2016</a></h2></li>
 </ul>
 
 <h3>From around the web</h3>
@@ -1885,8 +1885,6 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
-<a name="latest"></a>
-
 <h3>December 2015</h3>
 <p>Around Gould Hall
 	<table border="0" cellpadding="4"><tr>
@@ -1964,5 +1962,84 @@ title: Photo Dojo
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/2359.bmp" /><br />
 		23:59:59</td>
+	</tr></table>
+</p>
+
+<a name="latest"></a>
+
+<h3>January 2016</h3>
+<p>New Year's Day
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/auld.bmp" /><br />
+		Auld Lang Syne</td>
+	</tr></table>
+</p>
+
+<p>Visiting Brian at U. Chicago
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ucapt.bmp" /><br />
+		Apartment</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ucgym.bmp" /><br />
+		Gymnasium</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ucchris.bmp" /><br />
+		</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ucdome.bmp" /><br />
+		Dome</td>
+	</tr></table>
+</p>
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ucstreet.bmp" /><br />
+		Street View</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ucbldg.bmp" /><br />
+		</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ucdining.bmp" /><br />
+		Dining</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/briandorm.bmp" /><br />
+		Dorm View</td>
+	</tr></table>
+</p>
+
+<p>Winter in Wilmette
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/evanstonborder.bmp" /><br />
+		Evanston border</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/winterbeach.bmp" /><br />
+		Winter beach</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/bahaitemple.bmp" /><br />
+		Bah&aacute;'i Temple</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/drainage.bmp" /><br />
+		Drainage canal</td>
+	</tr></table>
+</p>
+
+<p>Transfer to U. Illinois at Urbana-Champaign
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/loading.bmp" /><br />
+		Loading zone</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/grate.bmp" /><br />
+		Mixer grate</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/wilber.bmp" /><br />
+		Wilber</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/stadium.bmp" /><br />
+		Stadium</td>
 	</tr></table>
 </p>
