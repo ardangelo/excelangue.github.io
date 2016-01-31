@@ -2020,7 +2020,7 @@ title: Photo Dojo
 		Winter beach</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/bahaitemple.bmp" /><br />
-		Bah&aacute;'i Temple</td>
+		Bah&aacute;'&iacute; Temple</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/drainage.bmp" /><br />
 		Drainage canal</td>
