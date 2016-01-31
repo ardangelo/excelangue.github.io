@@ -20,7 +20,7 @@ Education
 * **Undergraduate, University of Illinois**, Champaign, IL Jan. 2016 - Present
 	-	Currently a junior studying Computer Science and Mathematics
 
-* **University of Washington**, Seattle, WA Sep. 2014 - Dec. 2015
+* **Undergraduate, University of Washington**, Seattle, WA Sep. 2014 - Dec. 2015
   * 2014 - 2015 school year: Dean's List with 3.8 GPA
   * Nominated twice for the Soceity for Collegiate Leadership & Achievement soceity
 	
