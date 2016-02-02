@@ -6,7 +6,7 @@ title: Main Page
 
 ##About
 
-Andrew D'Angelo: I'm a junior at the University of Washington studying computer science and applied mathematics. My current projects involve machine learning and recurrent neural networks. Programmer in C (GBA & PC), C#, F#, Python, and LISP.
+Andrew D'Angelo: I'm a junior at the University of Illinois at Urbana-Champaign studying computer science. My current projects involve machine learning and recurrent neural networks. Programmer in C (GBA & PC), C#, F#, Python, and LISP.
 
 My r&eacute;sum&eacute; can be found [here]({{ site.url }}/resume.html).
 
