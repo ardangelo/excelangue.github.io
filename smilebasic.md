@@ -23,6 +23,7 @@ Sample LISP code with some simple functions: <code>XKA84J4F</code>
 
 Version History
 <ul>
+	<li><b>0.4c</b> 2016-02-14: Removed tail-call optimization due to deep memory system bugs. Final version using this codebase. (Key <code>Q3KEK46D</code>)</li>
 	<li><b>0.4b</b> 2015-11-19: Working tail-call optimization. Optimizes self calls in tail position but still piles onto the heap. A work in progress (Key <code>X338V3AP</code>)</li>
 	<li><b>0.3</b> 2015-10-26: Added PRINT statement and working mark-sweep garbage collection (Key <code>13WEEEHV</code>)</li>
 	<li><b>0.1</b> 2015-10-18: Rewrote parts using more SmileBASIC, added LOAD primitive for file input. (Key <code>BDEE32HV</code>)</li>
