@@ -25,7 +25,7 @@ Public key: [pubkey.txt]({{ site.url }}/assets/text/pubkey.txt)
 		<td colspan="2"><strong>scheme&#8594;gba</strong> - <a href="https://github.com/excelangue/scheme-gba">GitHub repository</a></td>
 	</tr><tr>
 		<td width="80"><img src="{{ site.url }}/assets/images/sgba-icon.png" /></td>
-		<td style="vertical-align:top">A Scheme compiler targeting ARM assembly and Game Boy Advance. Follows Abdulaziz Ghuloum's <i>An Incremental Approach to Compiler Construction<i>.</td>
+		<td style="vertical-align:top">A Scheme compiler targeting ARM assembly and Game Boy Advance. Follows Abdulaziz Ghuloum's <i>An Incremental Approach to Compiler Construction</i>.</td>
 	</tr>
 
 	<tr>
