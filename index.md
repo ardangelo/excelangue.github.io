@@ -4,7 +4,7 @@ title: Main Page
 ---
 {% include JB/setup %}
 
-##About
+## About
 
 Andrew D'Angelo: I'm a junior at the University of Illinois at Urbana-Champaign studying computer science. My current projects involve machine learning and recurrent neural networks. Programmer in C (GBA & PC), C#, F#, Python, and LISP.
 
@@ -21,6 +21,13 @@ Public key: [pubkey.txt]({{ site.url }}/assets/text/pubkey.txt)
 ## Selected Projects
 
 <table cellpadding="5">
+	<tr>
+		<td colspan="2"><strong>scheme&#8594;gba</strong> - <a href="https://github.com/excelangue/scheme-gba">GitHub repository</a></td>
+	</tr><tr>
+		<td width="80"><img src="{{ site.url }}/assets/images/sgba-icon.png" /></td>
+		<td style="vertical-align:top">A Scheme compiler targeting ARM assembly and Game Boy Advance. Follows Abdulaziz Ghuloum's <i>An Incremental Approach to Compiler Construction<i>.</td>
+	</tr>
+
 	<tr>
 		<td colspan="2"><strong>Neural.NET</strong> - <a href="https://github.com/excelangue/Neural.NET">GitHub repository</a></td>
 	</tr><tr>
@@ -47,15 +54,14 @@ Public key: [pubkey.txt]({{ site.url }}/assets/text/pubkey.txt)
 
 ## Apps
 
-I have hidden both of these apps from the Windows Phone Store, as they no longer work with the websites they were designed to access and I currently don't have enough time to dedicate towards fixing them. Both can still be viewed on the Store by clicking the respective links.
-
 <table cellpadding="5">
 	<tr>
 		<td colspan="2"><strong>Omeddle</strong> - <a href="{{ site.url}}/assets/images/154x40_WP_Store_gry.png)](http://www.windowsphone.com/en-us/store/app/omeddle/e99fbcac-c908-43e0-87c0-2c69e394a466">Windows Phone Store</a></td>
 	</tr><tr>
 		<td width="80"><img src="{{ site.url}}/assets/images/om-icon.png" /></td>
-		<td style="vertical-align:top">I finished this app during Microsoft's 2014 //publish/ event in Chicago, where I won 3rd place in the overall local app competition. At its peak it had around 2,000 downloads per month, and hovered around 500 downloads a month totalling around 8,000 downloads. Source code in this <a href="https://github.com/excelangue/omeddle">GitHub repository</a>.<br />
-		Omeddle was not only a fully-featured Omegle client, but also also allowed you to MITM two unsuspecting Omegle users, control the conversation by masquerading as the Stranger, and modify messages with simple find and replace or regular expressions. Also featured integrated image sharing and management with Imgur and chatlog sharing with Pastebin.</td>
+		<td style="vertical-align:top">
+		Omeddle is not only a fully-featured Omegle client, but also also allows you to MITM two unsuspecting Omegle users, control the conversation by masquerading as the Stranger, and modify messages with simple find and replace or regular expressions. Also features integrated image sharing and management with Imgur and chatlog sharing with Pastebin.<br />
+		I finished this app during Microsoft's 2014 //publish/ event in Chicago, where I won 3rd place in the overall local app competition. At its peak it had around 2,000 downloads per month, and hovered around 500 downloads a month totalling around 8,000 downloads. Source code in this <a href="https://github.com/excelangue/omeddle">GitHub repository</a>.</td>
 	</tr>
 
 	<tr>
