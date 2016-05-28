@@ -2051,7 +2051,7 @@ title: Photo Dojo
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/eceb.bmp" /><br />
 		Check-in</td>
 
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/unionhall.bmp" /><br />
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ecebhall.bmp" /><br />
 		Commencement</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/hackdogs.bmp" /><br />
