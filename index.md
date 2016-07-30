@@ -14,7 +14,7 @@ My r&eacute;sum&eacute; can be found [here]({{ site.url }}/resume.html).
 
 Fingerprint: `9763 0523 B54B 17E4 0ECE 42C6 F2D9 8C89 394E 5B3A`
 
-Public key: [pubkey.txt]({{ site.url }}/assets/text/pubkey.txt)
+Public key: [hosted at Keybase](https://keybase.io/excel)
 
 ---
 
