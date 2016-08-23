@@ -8,7 +8,7 @@ title: Photo Dojo
 <p>Transfer and extraction tools for Windows can be downloaded <a href="{{ site.url }}/assets/files/ems64m-win.zip">here</a>, and transfer tools for OS X <a href="{{ site.url }}/assets/files/ems64m-osx.zip">here</a>. OS X and Linux extraction can be accomplished with my utility <a href="https://github.com/excelangue/gbcdump">gbcdump</a>.</p>
 
 <ul>
-	<li><h2>Latest update: <a href="#latest">Jan. 2016</a></h2></li>
+	<li><h2>Latest update: <a href="#latest">Jul. 2016</a></h2></li>
 </ul>
 
 <h3>From around the web</h3>
@@ -2042,8 +2042,6 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
-<a name="latest"></a>
-
 <h3>February 2016</h3>
 <p>HackIllinois at UIUC
 	<table border="0" cellpadding="4"><tr>
@@ -2156,5 +2154,125 @@ title: Photo Dojo
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/goldengate.bmp" /><br />
 		Golden Gate</td>
+	</tr></table>
+</p>
+
+<a name="latest"></a>
+
+<h3>July 2016</h3>
+<p>Pitchfork Music Festival
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/pfmetra.bmp" /><br />
+		Metra down</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/pfdunkin.bmp" /><br />
+		Local Dunkin</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/pfline.bmp" /><br />
+		Pitchfork line</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/pfstage.bmp" /><br />
+		Pitchfork stage</td>
+	</tr></table>
+</p>
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/pfview.bmp" /><br />
+		Viewing screen</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/closer.bmp" /><br />
+		Closer stage</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/recordtent.bmp" /><br />
+		At the record tent</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/subpop.bmp" /><br />
+		Sub Pop</td>
+	</tr></table>
+</p>
+
+<p>Friday's main event: Beach House
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/gathering.bmp" /><br />
+		Gathering at the Red stage</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/pfbh.bmp" /><br />
+		Beach House</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/pfbh2.bmp" /><br />
+		Zoom tool</td>
+	</tr></table>
+</p>
+
+<h3>August 2016</h3>
+<p>Around the Blue Line
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ctaview.bmp" /><br />
+		CTA View</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ctanight.bmp" /><br />
+		CTA Night</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/california.bmp" /><br />
+		Blue Line California</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/ayylmaoo.bmp" /><br />
+		Ayylmaoo</td>
+	</tr></table>
+</p>
+
+<p>Renaissance Faire Bristol, WI
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/edgycar.bmp" /><br />
+		Edgy car in the lot</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rfentrance.bmp" /><br />
+		Entrance</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rfshields.bmp" /><br />
+		Shields entrance</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rfshields2.bmp" /><br />
+		Shields</td>
+	</tr></table>
+</p>
+
+<p>RenFaire Lunchtime
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/artichokes.bmp" /><br />
+		Artichokes</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/brats.bmp" /><br />
+		Brats</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/turkeylegs.bmp" /><br />
+		Turkey legs</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/charlieturkey.bmp" /><br />
+		Charlie gets a turkey leg</td>
+	</tr></table>
+</p>
+
+<p>Around RenFaire
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rfpipes.bmp" /><br />
+		Fancy pipes</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/rfevent.bmp" /><br />
+		</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/chalkdraw.bmp" /><br />
+		Chalk art</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/carve.bmp" /><br />
+		Pickle carving</td>
 	</tr></table>
 </p>
