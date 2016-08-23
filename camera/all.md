@@ -7,9 +7,7 @@ title: Photo Dojo
 <p>To transfer these images, I use a Game Boy <a href="http://www.amazon.com/Mega-Memory-Card/dp/B00002R108">Mega Memory Card</a> to transfer the battery save from the GB Camera to an <a href="http://store.kitsch-bent.com/product/usb-64m-smart-card">EMS 64m flash cart</a> (originally from <a href="http://robpoke.com/game-boy-camera-photos-to-pc/">Rob Poke</a>).</p>
 <p>Transfer and extraction tools for Windows can be downloaded <a href="{{ site.url }}/assets/files/ems64m-win.zip">here</a>, and transfer tools for OS X <a href="{{ site.url }}/assets/files/ems64m-osx.zip">here</a>. OS X and Linux extraction can be accomplished with my utility <a href="https://github.com/excelangue/gbcdump">gbcdump</a>.</p>
 
-<ul>
-	<li><h2>Latest update: <a href="#latest">Jul. 2016</a></h2></li>
-</ul>
+<h2>Latest update: <a href="#latest">Jul. 2016</a></h2>
 
 <h3>From around the web</h3>
 <p>
