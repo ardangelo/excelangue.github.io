@@ -74,7 +74,7 @@ title: Photo Dojo
 		Routine</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/alecjoe.bmp" /><br />
-		Haze</td>
+		Closed</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/roadtrip2015.bmp" /><br />
 		Rolling</td>
