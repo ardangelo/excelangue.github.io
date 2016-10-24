@@ -8,6 +8,7 @@ Andrew D'Angelo
 ===============
 
 Contact: [dangeloandrew@outlook.com](mailto:dangeloandrew@outlook.com)
+Work authorization: US Citizen
 
 Summary
 -------
