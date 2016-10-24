@@ -12,7 +12,7 @@ My r&eacute;sum&eacute; can be found [here]({{ site.url }}/resume.html).
 
 #### PGP Data
 
-Fingerprint: `9763 0523 B54B 17E4 0ECE 42C6 F2D9 8C89 394E 5B3A`
+Fingerprint: `61CA 64F8 7D8A 9211 0021  24D5 3F58 0230 7F0B AC98`
 
 Public key: [hosted at Keybase](https://keybase.io/excel)
 
