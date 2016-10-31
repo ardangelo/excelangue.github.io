@@ -2313,6 +2313,8 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
+<a name="neon"></a>
+
 <p>Neon Indian at Champaign
 	<table border="0" cellpadding="4"><tr>
 
