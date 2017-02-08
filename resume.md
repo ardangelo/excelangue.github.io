@@ -20,14 +20,12 @@ Education
 ---------
 
 * **Undergraduate, University of Illinois**, Champaign, IL Jan. 2016 - Present
-    -   Bachelor of Science in Computer Science, expected May 2018.
-    -   Dean's List Spring 2016 with 3.9 GPA.
-    -   Co-Chair of the UIUC chapter of ACM Special Interest Group on Programming Languages.
-    -   Selected Classes: CS 225 Data Structures, CS 233 Computer Architecture, MATH 461 Probability Theory, CS 241 Systems Programming I (in progress), CS 374 Algorithms and Models of Computation (in progress)
-
+    -   3.93 GPA, Dean's List Spring 2016.
+    -   Co-Chair of UIUC chapter of ACM Special Interest Group on Programming Languages. Member of the Tau Beta Pi Engineering Honor Society.
+    -   Selected Classes: CS 225 Data Structures, CS 233 Computer Architecture, CS 241 Systems Programming, CS 473 Algorithms II (in progress), CS 446 Machine Learning (in progress), CS 421 Programming Languages and Compilers (in progress)
 * **Undergraduate, University of Washington**, Seattle, WA Sep. 2014 - Dec. 2015
     -   Transferred January 2016 to the University of Illinois at Urbana-Champaign.
-    -   2014 to 2015 school year: Dean's List with 3.8 GPA.
+    -   2014 to 2015 school year: Dean's List with 3.8 GPA.
     -   Nominated twice for the Soceity for Collegiate Leadership & Achievement.
 
 Languages & Frameworks
