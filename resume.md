@@ -27,7 +27,7 @@ Education
 
 * **Undergraduate, University of Washington**, Seattle, WA Sep. 2014 - Dec. 2015
     -   Transferred January 2016 to the University of Illinois at Urbana-Champaign.
-    -   2014 - 2015 school year: Dean's List with 3.8 GPA.
+    -   2014 to 2015 school year: Dean's List with 3.8 GPA.
     -   Nominated twice for the Soceity for Collegiate Leadership & Achievement.
 
 Languages & Frameworks
@@ -46,9 +46,6 @@ Work Experience
 
 *   **Technical Consultant**, Panorama Innovation, Wilmette, IL: Jun. 2014 - Sept. 2014
     -   Designed and prototyped a customer data mining system for retail settings using OpenWRT on commodity access points for data collection and Python for data processing and analytics.
-
-*   **IT Technician**, Unite Here Health, Chicago, IL: Jul. 2014 - Aug. 2014
-    -   Set up and maintained computer systems and network for health insurance events. Responsibilities included wired and wireless network configuration, cabling, Windows networking, and troubleshooting.
 
 Selected Projects
 ----------------
