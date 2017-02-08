@@ -12,9 +12,8 @@ Work authorization: US Citizen
 
 Summary
 -------
-
+*   **Seeking a software development internship for Summer 2017**
 *   Enthusiastic and creative with a strong mathematical background and experience designing and writing computer software.
-
 *   Able to design architectures and algorithms at a high level then implement in a lower level in a multitude of languages and frameworks.
 
 Education
@@ -27,21 +26,23 @@ Education
     -   Selected Classes: CS 225 Data Structures, CS 233 Computer Architecture, MATH 461 Probability Theory, CS 241 Systems Programming I (in progress), CS 374 Algorithms and Models of Computation (in progress)
 
 * **Undergraduate, University of Washington**, Seattle, WA Sep. 2014 - Dec. 2015
-    -   2014 - 2015 school year: Dean's List with 3.8 GPA.
+    -   Transferred January 2016 to the University of Illinois at Urbana-Champaign.
+    -   2014 - 2015 school year: Dean's List with 3.8 GPA.
     -   Nominated twice for the Soceity for Collegiate Leadership & Achievement.
 
 Languages & Frameworks
 ------------------
 
-*   Python with Django and Web2Py, C# and F# for the .NET framework, C for PC and Game Boy Advance, Java, LISP. Current focus on machine learning using F#.
+*   Python with Web2Py, C# and F# for the .NET framework, C++, C for PC and Game Boy Advance, LISP, Haskell, Java. Current focus on compilers, functional programming, and programming language theory.
 
 Work Experience
 ---------------
 
 *   **Software Engineer**, Quicket Solutions, Champaign, IL: Feb. 2016 - Present
-*   **Software Engineering Intern**, Quicket Solutions, Champaign, IL: Summer 2015
-    -   Wrote and maintained database interface and backend management code using Python and Web2Py as part of a complete electronic police citation management service.
-    -   Designed and implemented software solutions in a tight-knit, collaborative group. Planned extensible and robust systems for data processing in a fast moving startup environment.
+*   **Software Engineering Intern**, Quicket Solutions, Champaign, IL: Summer 2015
+    -   Part-time during the academic year, full-time during Summer 2015 and Summer 2016.
+    -   Writing and maintaining database interface, backend management, and user-facing communications code as part of a complete electronic police citation management service using Python and Web2Py.
+    -   Designing and implementing a software solution to replace a traditionally paper-based process in a tight-knit, collaborative group. Creating extensible, robust systems for data collection, processing, and analytics in a fast-moving startup environment.
 
 *   **Technical Consultant**, Panorama Innovation, Wilmette, IL: Jun. 2014 - Sept. 2014
     -   Designed and prototyped a customer data mining system for retail settings using OpenWRT on commodity access points for data collection and Python for data processing and analytics.
