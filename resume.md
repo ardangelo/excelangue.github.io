@@ -48,7 +48,7 @@ Work Experience
 Selected Projects
 ----------------
 
-*   **scheme->gba**: Scheme to ARM Assembly Complier: Summer 2016
+*   **scheme->gba**: Scheme to ARM Assembly Compiler: Summer 2016
     -   A from-scratch Scheme compiler targeting ARM assembly along with a bootstrapping and communications toolkit for running code on real Game Boy Advance hardware.
 
 *   **Neural.NET**: Machine Learning Library: May 2015
