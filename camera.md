@@ -48,7 +48,7 @@ title: Photo Dojo
 		</td>
 		
 		<td width="140" style="border: 1px solid blue;"><a href="camera/2017.html">
-			<img src="{{ site.url }}/assets/images/gameboy/.bmp" /><br />
+			<img src="{{ site.url }}/assets/images/gameboy/hazard.bmp" /><br />
 			2017</a>
 		</td>
 	</tr></table>

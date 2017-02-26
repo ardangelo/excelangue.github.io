@@ -2369,11 +2369,11 @@ title: Photo Dojo
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/jeanvest.bmp" /><br />
 		Foschi tries on jean vests</td>
 
-		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/bunpurse.bmp" /><br />
-		Textor with fuzzy purse</td>
-
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/saltroom.bmp" /><br />
 		Climbing the salt pile</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/foschivr.bmp" /><br />
+		Impressed by Phone VR</td>
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/gabecaptain.bmp" /><br />
 		Gabe wields the Captain's sword</td>
