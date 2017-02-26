@@ -7,7 +7,7 @@ title: Photo Dojo
 <p>To transfer these images, I use a Game Boy <a href="http://www.amazon.com/Mega-Memory-Card/dp/B00002R108">Mega Memory Card</a> to transfer the battery save from the GB Camera to an <a href="http://store.kitsch-bent.com/product/usb-64m-smart-card">EMS 64m flash cart</a> (originally from <a href="http://robpoke.com/game-boy-camera-photos-to-pc/">Rob Poke</a>).</p>
 <p>Transfer and extraction tools for Windows can be downloaded <a href="{{ site.url }}/assets/files/ems64m-win.zip">here</a>, and transfer tools for OS X <a href="{{ site.url }}/assets/files/ems64m-osx.zip">here</a>. OS X and Linux extraction can be accomplished with my utility <a href="https://github.com/excelangue/gbcdump">gbcdump</a>.</p>
 
-<h2>Latest update: <a href="camera/2016.html#latest">Oct. 2016</a></h2>
+<h2>Latest update: <a href="camera/2016.html#latest">Nov. 2016</a></h2>
 <h3><a href="camera/all.html">Unpaginated</a><h3>
 
 <h3>Years</h3>
@@ -46,6 +46,11 @@ title: Photo Dojo
 			<img src="{{ site.url }}/assets/images/gameboy/stadium.bmp" /><br />
 			2016</a>
 		</td>
+		
+		<td width="140" style="border: 1px solid blue;"><a href="camera/2017.html">
+			<img src="{{ site.url }}/assets/images/gameboy/.bmp" /><br />
+			2017</a>
+		</td>
 	</tr></table>
 </p>
 
@@ -63,6 +68,24 @@ title: Photo Dojo
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/chris_overhead.gif" /><br />
 		From Nullsleep's Game Boy journal [<a href="http://www.nullsleep.com/gb_gallery/circuitburglars_practice_11-23-01/">nullsleep.com</a>]</td>
+
+	</tr></table>
+</p>
+
+<h3>2016: In Review</h3>
+<p>
+	<table border="0" cellpadding="4"><tr>
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/auld.bmp" /><br />
+		Begin</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/mesandersglemp.bmp" /><br />
+		East</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/pfbh.bmp" /><br />
+		Stars</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/vegafar.bmp" /><br />
+		End</td>
 
 	</tr></table>
 </p>
@@ -138,3 +161,4 @@ title: Photo Dojo
 
 	</tr></table>
 </p>
+

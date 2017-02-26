@@ -7,7 +7,7 @@ title: Photo Dojo
 <p>To transfer these images, I use a Game Boy <a href="http://www.amazon.com/Mega-Memory-Card/dp/B00002R108">Mega Memory Card</a> to transfer the battery save from the GB Camera to an <a href="http://store.kitsch-bent.com/product/usb-64m-smart-card">EMS 64m flash cart</a> (originally from <a href="http://robpoke.com/game-boy-camera-photos-to-pc/">Rob Poke</a>).</p>
 <p>Transfer and extraction tools for Windows can be downloaded <a href="{{ site.url }}/assets/files/ems64m-win.zip">here</a>, and transfer tools for OS X <a href="{{ site.url }}/assets/files/ems64m-osx.zip">here</a>. OS X and Linux extraction can be accomplished with my utility <a href="https://github.com/excelangue/gbcdump">gbcdump</a>.</p>
 
-<h2>Latest update: <a href="#latest">Oct. 2016</a></h2>
+<h2>Latest update: <a href="#latest">Nov. 2016</a></h2>
 
 <h3>From around the web</h3>
 <p>
@@ -2273,9 +2273,6 @@ title: Photo Dojo
 	</tr></table>
 </p>
 
-<a name="latest"></a>
-
-<h3>August 2016</h3>
 <p>Chicago to Champaign
 	<table border="0" cellpadding="4"><tr>
 
@@ -2346,5 +2343,127 @@ title: Photo Dojo
 
 		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/vegafar.bmp" /><br />
 		Vega INTL</td>
+	</tr></table>
+</p>
+
+<a name="latest"></a>
+
+<h3>November 2016</h3>
+<p>Cubs win the World Series
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/cubsm.bmp" /><br />
+		Classic "M" Flag</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/oneway.bmp" /><br />
+		Stoplight climber</td>
+
+	</tr></table>
+</p>
+
+<h3>December 2016</h3>
+
+<p>Winter break in Wilmette
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/jeanvest.bmp" /><br />
+		Foschi tries on jean vests</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/bunpurse.bmp" /><br />
+		Textor with fuzzy purse</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/saltroom.bmp" /><br />
+		Climbing the salt pile</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/gabecaptain.bmp" /><br />
+		Gabe wields the Captain's sword</td>
+	</tr></table>
+</p>
+
+<p>Taco Bell Cantina on Blue Line
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/boozybell.bmp" /><br />
+		Cantina</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/nowopen.bmp" /><br />
+		Now Open</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/stubborn.bmp" /><br />
+		Soda taps</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/slidercircle.bmp" /><br />
+		Black Friday White Castle</td>
+	</tr></table>
+</p>
+
+<h3>January 2017</h3>
+
+<p>BoilerMake at Purdue
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/aniboilermake.bmp" /><br />
+		Ani at BoilerMake</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/purduebooks.bmp" /><br />
+		Nearby bookstore</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/purduebooks2.bmp" /><br />
+		Book rows</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/purduepower.bmp" /><br />
+		Power delivery</td>
+	</tr></table>
+</p>
+
+<p>
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/hackjudging.bmp" /><br />
+		Hack judging</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/hackplane.bmp" /><br />
+		Hack plane</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/hackddr.bmp" /><br />
+		Hack DDR</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/hackchairs.bmp" /><br />
+		Hack seating</td>
+	</tr></table>
+</p>
+
+<h3>Feburary 2017</h3>
+
+<p>Mini-golfing during lunch
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/putt.bmp" /><br />
+		David putting</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/bat.bmp" /><br />
+		At bat</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/bhargav.bmp" /><br />
+		Water hazard</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/hazard.bmp" /><br />
+		Retrieving ball</td>
+	</tr></table>
+</p>
+
+
+<p>HackIllinois at UIUC
+	<table border="0" cellpadding="4"><tr>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/hackillinois.bmp" /><br />
+		Hackers</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/sigplan.bmp" /><br />
+		SIGPLAN station</td>
+
+		<td width="140"><img src="{{ site.url }}/assets/images/gameboy/massspec.bmp" /><br />
+		Mass spectrometer reverse engineering</td>
+
 	</tr></table>
 </p>
